@@ -1,5 +1,4 @@
 # Predicting Vehicle Prices Using Regression Models
-Exploratory Data Analysis On New York City Yellow Taxi Data
 
 
 ## **Objectives**  
